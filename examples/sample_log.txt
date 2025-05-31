@@ -1,0 +1,2 @@
+SubGHz: 433.92 MHz signal detected
+RFID: EM4100 tag read

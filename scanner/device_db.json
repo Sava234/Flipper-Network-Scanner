@@ -1,0 +1,6 @@
+{
+    "125kHz": ["HID Prox", "EM4100", "Indala"],
+    "13.56MHz": ["MIFARE Classic", "NTAG213"],
+    "315MHz": ["Generic Remote"],
+    "433MHz": ["Car Key", "Door Sensor"]
+}

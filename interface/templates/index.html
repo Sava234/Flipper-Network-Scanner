@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flipper Network Scanner</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <h1>📡 Flipper Network Scanner</h1>
+    <ul>
+        {% for line in results %}
+        <li>{{ line }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
