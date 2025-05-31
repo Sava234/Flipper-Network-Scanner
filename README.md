@@ -26,12 +26,3 @@ Then open [http://localhost:5000](http://localhost:5000) in your browser.
 
 Place your Flipper logs in `examples/sample_log.txt` or stream them directly from UART.
 
-## 🛠️ Roadmap
- Live UART parsing
- Auto-refresh web interface
- Import from IRDB CSVs
-Manufacturer icons and tags
-
-## 📄 License
-
-MIT — Use freely with attribution.
